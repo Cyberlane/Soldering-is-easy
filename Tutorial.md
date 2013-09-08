@@ -69,6 +69,20 @@ Just the same as you soldered the LEDs, you will be soldering the battery clips.
 
 ![013]
 
+### Step 4 - Finishing touches
+
+Peel the green label off of the back of the pin, and press it firmly onto the PCB just above the battery black holder. Please ensure that the part where the pin comes out is at the top right, as seen in the picture below :
+
+![014]
+
+The final bit is to fit the battery. The battery should be positive side up (the side with the writing), as seen in the below picture :
+
+![015]
+
+Turn the PCB over and the eyes should be flashing!
+
+![016]
+
 
 
 
