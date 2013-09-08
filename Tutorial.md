@@ -51,6 +51,24 @@ Next you want to trim the legs of the LEDs down to size, try and cut them as sho
 
 ![009]
 
+### Step 3 - The battery clip
+
+On the back of the PCB there be an outline of the battery holder along with two holes. Match the battery holder up to go along with the outline.
+
+![010]
+
+Once again we can use the sticky pin as a little pillow to keep everything level.
+
+![011]
+
+It should be resting comfortably on the pin.
+
+![012]
+
+Just the same as you soldered the LEDs, you will be soldering the battery clips. The only difference this time is that the pins are nice and short so do not need clipping.
+
+![013]
+
 
 
 
