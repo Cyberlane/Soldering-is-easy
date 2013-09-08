@@ -19,6 +19,39 @@ E) A sticky pin
 
 ![002]
 
+### Step 2 - The eyes
+
+You begin by putting the eyes in one at a time, long leg in the top and shorter leg in the bottom. The LEDs might get a little stiff before they're all the way in, so just give them a bit of a wiggle and they will click right in place.
+
+![003]
+
+Once both eyes are in the front of the board should look something like this :
+
+![004]
+
+and the back something like this :
+
+![005]
+
+Now we want to have the board face down, and we can use the sticky pin as a pillow to keep everything nice and flat.
+
+![006]
+
+When it's laying down it should be flat and look something like this :
+
+![007]
+
+Now it's time to start soldering. You want to hold the side of the end of the soldering iron down on one of the silver rings and slowly push the solder into the metal ring near the iron and it will melt. Keep pushing the solder until you get a nice little bubble of solder. If you wire of solder gets stuck, just heat it up with the soldering iron to melt it off.
+
+The PCB is coated in solder resist, so will not melt too easily. However it will eventually wear out and melt if you leave it there for long enough, so try not to hold the iron there for too long.
+
+![008]
+
+Next you want to trim the legs of the LEDs down to size, try and cut them as short as you can. If you prefer, you can solder one leg and then trim it, and repeat until they are all complete. Whatever is easier for you.
+
+![009]
+
+
 
 
 [001]: https://raw.github.com/Cyberlane/Soldering-is-easy/master/img/001.jpg
