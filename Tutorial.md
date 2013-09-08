@@ -83,6 +83,18 @@ Turn the PCB over and the eyes should be flashing!
 
 ![016]
 
+### Step 5 - Removing the battery
+
+If you want to turn off the badge, you need to remove the battery. On the back of the PCB where the battery holder is sitting, there is a little bit that sticks out to the side.
+
+![017]
+
+If you squeeze that bit (you need nails or a pair of needle nose pliers) the battery should release.
+
+![018]
+
+The battery clip will then be ready to take in another battery at any time.
+
 
 
 
