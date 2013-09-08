@@ -8,9 +8,13 @@ You should have a kit which looks pretty similar to this
 Once you empty out the kit onto a table, you should have the following pieces :
 
 A) Your badge, which is a Printed Circuit Board (PCB)
+
 B) A CR2032 coincell battery
+
 C) 2x LEDs (these will be the eyes) - one leg is longer than the other, and the longer leg goes into the top of each eye, while the shorter goes into the bottom of each eye.
+
 D) A battery holder
+
 E) A sticky pin
 
 ![002]
