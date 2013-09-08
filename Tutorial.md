@@ -21,7 +21,7 @@ E) A sticky pin
 
 ### Step 2 - The eyes
 
-You begin by putting the eyes in one at a time; long leg in the top and shorter leg in the bottom. The LEDs might get a little stiff before they're all the way in, so just give them a bit of a wiggle and they will click right in place.
+You begin by putting the eyes in one at a time: long leg in the top and shorter leg in the bottom. The LEDs might get a little stiff before they're all the way in, so just give them a bit of a wiggle and they will click right in place.
 
 ![003]
 
