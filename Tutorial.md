@@ -5,13 +5,13 @@
 You should have a kit which looks pretty similar to this
 ![001]
 
-Once you empty out the kit onto a table, you should have the following pieces :
+Each kit comes with the following pieces:
 
 A) Your badge, which is a Printed Circuit Board (PCB)
 
 B) A CR2032 coincell battery
 
-C) 2x LEDs (these will be the eyes) - one leg is longer than the other, and the longer leg goes into the top of each eye, while the shorter goes into the bottom of each eye.
+C) 2x LEDs (these will be the 'eyes') - one leg is longer than the other: the longer leg goes into the top of each eye, while the shorter goes into the bottom of each eye.
 
 D) A battery holder
 
@@ -21,15 +21,15 @@ E) A sticky pin
 
 ### Step 2 - The eyes
 
-You begin by putting the eyes in one at a time, long leg in the top and shorter leg in the bottom. The LEDs might get a little stiff before they're all the way in, so just give them a bit of a wiggle and they will click right in place.
+You begin by putting the eyes in one at a time; long leg in the top and shorter leg in the bottom. The LEDs might get a little stiff before they're all the way in, so just give them a bit of a wiggle and they will click right in place.
 
 ![003]
 
-Once both eyes are in the front of the board should look something like this :
+Once both eyes are in, the front of the board should look something like this:
 
 ![004]
 
-and the back something like this :
+and the back something like this:
 
 ![005]
 
@@ -37,23 +37,23 @@ Now we want to have the board face down, and we can use the sticky pin as a pill
 
 ![006]
 
-When it's laying down it should be flat and look something like this :
+Position the PCB onto the pin as such:
 
 ![007]
 
-Now it's time to start soldering. You want to hold the side of the end of the soldering iron down on one of the silver rings and slowly push the solder into the metal ring near the iron and it will melt. Keep pushing the solder until you get a nice little bubble of solder. If you wire of solder gets stuck, just heat it up with the soldering iron to melt it off.
+Now it's time to start soldering. You'll want to hold the side at the tip of the soldering iron down on one of the silver rings and slowly push the solder into the metal ring near the iron to melt it. Keep pushing the solder until you a nice little solder bubble is formed. If your wire of solder gets stuck, just heat it up with the soldering iron to melt it off.
 
 The PCB is coated in solder resist, so will not melt too easily. However it will eventually wear out and melt if you leave it there for long enough, so try not to hold the iron there for too long.
 
 ![008]
 
-Next you want to trim the legs of the LEDs down to size, try and cut them as short as you can. If you prefer, you can solder one leg and then trim it, and repeat until they are all complete. Whatever is easier for you.
+Next you want to trim the legs of the LEDs down to size. Try and cut them as short as you can. If you prefer, you can solder one leg and then trim it, and repeat until they are all complete. Whatever is easier for you.
 
 ![009]
 
 ### Step 3 - The battery clip
 
-On the back of the PCB there be an outline of the battery holder along with two holes. Match the battery holder up to go along with the outline.
+On the back of the PCB there is an outline of the battery holder along with two holes. Match the battery holder with the outilne so the legs of the holder go through the PCB.
 
 ![010]
 
@@ -65,17 +65,17 @@ It should be resting comfortably on the pin.
 
 ![012]
 
-Just the same as you soldered the LEDs, you will be soldering the battery clips. The only difference this time is that the pins are nice and short so do not need clipping.
+Just the same as you soldered the LEDs, you will be soldering the battery clips. The only difference this time is that the pins are nice and short so they do not need trimming.
 
 ![013]
 
 ### Step 4 - Finishing touches
 
-Peel the green label off of the back of the pin, and press it firmly onto the PCB just above the battery black holder. Please ensure that the part where the pin comes out is at the top right, as seen in the picture below :
+Peel the green label off of the back of the pin, and press it firmly onto the PCB just above the battery holder. Please ensure that the part where the pin comes out is at the top right, as seen in the picture below:
 
 ![014]
 
-The final bit is to fit the battery. The battery should be positive side up (the side with the writing), as seen in the below picture :
+The final bit is to fit the battery. The battery should be positive side up (the side with the writing), as seen in the picture below:
 
 ![015]
 
@@ -93,7 +93,7 @@ If you squeeze that bit (you need nails or a pair of needle nose pliers) the bat
 
 ![018]
 
-The battery clip will then be ready to take in another battery at any time.
+You can replace the battery if it dies, or just remove it to stop the LEDs from flashing.
 
 
 
