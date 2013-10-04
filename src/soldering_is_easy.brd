@@ -7310,7 +7310,7 @@
 <rectangle x1="8.288475" y1="7.201475" x2="8.536125" y2="7.207825" layer="21"/>
 <rectangle x1="8.307525" y1="7.207825" x2="8.517075" y2="7.214175" layer="21"/>
 <rectangle x1="8.339275" y1="7.214175" x2="8.485325" y2="7.220525" layer="21"/>
-<text x="9.75" y="20.25" size="1.4224" layer="22" font="vector" ratio="9" rot="MR0" align="top-right">Battery Holder</text>
+<text x="7.5" y="20.25" size="1.4224" layer="22" font="vector" ratio="9" rot="MR0" align="top-right">Battery Holder</text>
 <text x="4.75" y="32.5" size="2.54" layer="21" font="vector">I CAN SOLDER!</text>
 <text x="11.25" y="6.75" size="0.8128" layer="21" font="vector">Designed by Justin Nel</text>
 <text x="11.25" y="2.75" size="1" layer="21" font="vector">[ www.cyber-lane.com ]</text>
